@@ -2,7 +2,7 @@
   "name": "Shock The World",
   "short_name": "ShockTheWorld",
   "description": "Transformation fitness tracker - Séances, calories, mensurations",
-  "start_url": "/Shocktheworld/index.html",
+  "start_url": "/Shocktheworld/",
   "scope": "/Shocktheworld/",
   "display": "standalone",
   "orientation": "portrait",
@@ -11,18 +11,17 @@
   "lang": "fr",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/googlesamples/web-fundamentals/master/fundamentals/getting-started/your-first-progressive-web-app/images/icons/icon-192x192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://raw.githubusercontent.com/googlesamples/web-fundamentals/master/fundamentals/getting-started/your-first-progressive-web-app/images/icons/icon-512x512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [],
   "categories": ["health", "fitness", "lifestyle"]
 }
